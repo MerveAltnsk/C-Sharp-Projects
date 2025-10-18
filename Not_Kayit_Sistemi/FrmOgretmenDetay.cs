@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace Not_Kayit_Sistemi
+namespace Not_Kayit_Sistemi 
 {
     public partial class FrmOgretmenDetay : Form
     {
